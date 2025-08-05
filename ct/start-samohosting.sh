@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-source <(curl -s https://raw.githubusercontent.com/akifjev/samohosting-scripts/ru_dev/misc/build.func)
+source <(curl -s https://raw.githubusercontent.com/akifjev/samohosting-scripts/ru_dev_pve9/misc/build.func)
 # Copyright (c) 2021-2025 tteck
 # Author: tteck (tteckster)
 # Modified_by: samohosting.ru
